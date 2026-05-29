@@ -726,7 +726,16 @@ ul {
 }
 
 #captchaAnswer {
-    max-width: 150px;
+    width: 120px;
+    height: 42px;
+    padding: 8px 12px;
+    font-size: 16px;
+    color: #000 !important;
+    background: #fff !important;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    -webkit-text-fill-color: #000 !important;
+    opacity: 1 !important;
 }
 
 .btn-refresh {
